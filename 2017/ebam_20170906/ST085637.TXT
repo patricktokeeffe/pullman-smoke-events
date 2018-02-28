@@ -1,0 +1,64 @@
+
+E-BAM PLUS Settings Report
+2017-09-06 08:56:39
+
+      Firmware, 82102, R1.1.3
+          CPLD, 81699, R1.0.0
+       Display, 82451, R1.0
+ Digital Sen 1, 597, 10503-01, R01.0.0
+
+ Serial Number, W15095
+      Location, 1
+     Baud Rate, 115200
+Ethernet FlowControl, NONE
+        AIRSIS, OFF
+  Data Average, 1 HR
+RealTime Period, 60
+   Tape Period, 1 HR
+ Tape Pressure, 250
+ Standard Temp, 25 C
+ PM Inlet Type, PM2.5
+     Conc Type, STANDARD
+             K, 1.031
+    Background, 0.0000
+           Usw, 0.325
+    Audit Span, 0.735
+    Conc Units, ug/m3
+      USB Days, 30
+     USB Files, USER
+Analog Range 1, 0-5.0 V
+Analog Range 2, 0-5.0 V
+     Conc Span, 1000 ug/m3
+   Conc Offset, 0 ug/m3
+Hourly Timestamp, ENDING
+  FT Set Point, 45.0
+     FT P-Gain, 0.500
+     FT I-Gain, 0.300
+RealTime Alpha, 0.2316
+RealTime Gamma, 0.1500
+   Beep Volume, 10
+ModBus Address, 1
+    Byte Order, 512
+  Factory Mode, OFF
+ Flow 1 P-Gain, 10000.000
+ Flow 1 I-Gain, 5000.000
+ Flow 2 P-Gain, 10000.000
+ Flow 2 I-Gain, 5000.000
+   Cloud Modem, NONE
+     Time Zone, UTC -01:00
+    Clock Sync, NONE
+
+  Name, Offset,  Slope
+ FLOW1, -0.160,  1.031
+ FLOW2,  0.258,  0.868
+    AT, -0.420
+    BP, -2.360
+    FT, -0.441
+ UPPER,  4.069
+ LOWER,  3.442
+   FRH,  0.000
+
+
+     DAC Cal 1, 0.0,21,5.0,52729
+     DAC Cal 2, 0.0,-21,5.0,52732
+

@@ -1,0 +1,11 @@
+Data collected using OPC-N2 s/n 176430716 on Paccar roof. Unit was placed
+inside same ventilated enclosure as Dylos DC1100 (found in "weather" data file)
+
+OPC_010.csv     powered unit on 2017-09-01 1145 PST, turned off 9/6 0758 PST
+OPC_011.csv     powered unit on roughly 2017-09-06 0825 PST, unknown end time
+OPC_012.csv     unknown start time, turned off unit 9/7 at 1357 PST
+
+Files do not contain timestamps
+
+
+...it's not clear if unit does file rotation so grabbed OPC_006.csv and newer
