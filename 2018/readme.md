@@ -12,12 +12,12 @@ Setup DustTrak II units inside of blue ventilated enclosure. Yibo and Anna
 configured both units with PM2.5 inlets and placed enclosure on rooftop for
 co-located sampling with Indoor Air & Climate Change Study equipment (PETB 415).
 
-![TODO](photo of co-located IA&CC sampling inlets, with blue enclosure visible)
+![Picture of sampling inlets](img/IMG_20180821_132620.jpg)
 
 In the evening, placed both Dylos DC1100 units in ventilated enclosure at the
 foot of IA&CC sampling equipment inlet
 
-![Picture of Dylos unit enclosure](IMG_20180817_190506.jpg)
+![Picture of Dylos unit enclosure](img/IMG_20180817_190506.jpg)
 
 
 ### 2018-08-20
@@ -42,4 +42,19 @@ Re-synced clocks and began data recording again (PST/Z-0800):
     * *Unit #1 got shut off immediately after closing up enclosure.. delete
       duplicated data values (virtually all data)*
 
+> See images in [img/](img/) for clock statuses.
+
+![Photo of revised DC1100 enclosure](img/IMG_20180820_114723.jpg)
+
+### 2018-08-23
+
+10:00 PDT  
+Halted data collection and retrieved data sets:
+  * DustTrak #1 ("outdoor"): `8530150710/IAQ_OUTDOOR_027.csv`
+  * DustTrak #2 ("indoor"): `8530152108/IAQ_INDOOR_013.csv`
+  * Logger for Dylos units: `roof_logger/TOA5_lab-cr3000.dylos_20180820.dat`
+    * *Data sets still contain duplicated values when comms is interrupted -
+      check for and delete values if both channel values remain the same.*
+
+Reduced data set collected Aug 17-Aug 20.. see notes above.
 
