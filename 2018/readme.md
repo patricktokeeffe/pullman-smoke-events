@@ -76,4 +76,5 @@ From ~18:30 to 18:40 PDT, collected data sets from:
   * Nephalometer in 409: `neph/
   * SMPS in 409: `3082021407001/`
 
+Started data reduction notebook...
 
