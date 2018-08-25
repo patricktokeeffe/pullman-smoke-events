@@ -1,0 +1,25 @@
+
+
+20180823
+
+13:51 	laptop time stamp
+
+	connect the nephelometer with labjack and record raw signal by daqfactory
+
+	files will be saved in C:\PACCAR_Roof folder
+
+	scaling is: 
+
+		BSP_1: Value*(0.0002/5)
+		BSP_2: Value*(0.001/5)
+
+2018-08-24
+
+17:45 	replace inlet tube with (used) HEPA catridge filter
+17:48 	remove filter, sampling room air
+17:50   install different HEPA filter...
+
+
+
+
+

@@ -58,3 +58,22 @@ Halted data collection and retrieved data sets:
 
 Reduced data set collected Aug 17-Aug 20.. see notes above.
 
+----
+
+Relocated "outdoor" DustTrak II into 409, sampling from aerosol inlet manifold.  
+Relocated "indoor" DustTrak II into IAQ indoor rack and placed in 4th floor foyer.  
+Relocated "indoor" Dylos DC1100 into IAQ indoor rack as well.  
+Left "outdoor" Dylos DC1100 in rooftop enclosure.
+
+
+### 2018-08-24
+
+From ~18:30 to 18:40 PDT, collected data sets from:
+  * DustTrak #1 ("outdoor"): `8530150710/
+  * DustTrak #2 ("indoor"): `8530152108/
+  * Logger for outdoor Dylos: `roof_logger/
+  * Logger for indoor Dylos: `foyer_logger/
+  * Nephalometer in 409: `neph/
+  * SMPS in 409: `3082021407001/`
+
+
